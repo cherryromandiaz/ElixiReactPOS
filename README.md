@@ -64,6 +64,45 @@ src/
 
 6. Create components and pages
 
+# Features
+
+**1. Sales Management:**
+
+-Point of Sale Interface
+
+-Order Management
+
+-Returns and Refunds
+
+**2. Inventory Management:**
+
+-Product Catalog
+
+-Stock Control
+
+-Barcode Scanning
+
+**3. Customer Management:**
+
+-Customer Profiles
+
+-Customer Loyalty Programs
+
+**4. Reporting and Analytics:**
+
+-Sales Reports
+
+-Inventory Reports
+
+-Financial Reports
+
+**5. Employee Management:**
+
+-User Roles and Permissions
+
+-Time Tracking
+
+**6. Payment Gateway Integration (Paypal and Stripe)**
 
 
 
