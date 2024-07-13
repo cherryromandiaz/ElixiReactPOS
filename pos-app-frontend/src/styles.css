@@ -1,0 +1,42 @@
+/* src/styles.css or your preferred CSS file */
+
+.hamburger-menu {
+  width: 200px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  position: absolute;
+  top: 60px;
+  left: -200px;
+  z-index: 1000;
+  transition: left 0.3s ease;
+}
+
+.hamburger-menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hamburger-menu ul li {
+  margin-bottom: 10px;
+}
+
+.hamburger-menu ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.hamburger-menu-container {
+  position: relative;
+}
+
+.hamburger-menu-toggle {
+  cursor: pointer;
+}
+
+.hamburger-menu-toggle span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+  margin-bottom: 5px;
+}
